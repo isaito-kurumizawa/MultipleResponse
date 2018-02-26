@@ -1,0 +1,13 @@
+api/values
+{
+    "Hoge1": "hoge1",
+    "Hoge2": "hoge2"
+}
+
+/api/values/1
+{
+    "Hogeƒ¿1": "newhoge1",
+    "Hogeƒ¿2": "newhoge2",
+    "Hoge1": "hoge1",
+    "Hoge2": "hoge2"
+}
